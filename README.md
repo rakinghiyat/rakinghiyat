@@ -56,7 +56,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rakinghiyat-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakin-ghiyat-naufaldy-0313b8224/)
 [![Instagram](https://img.shields.io/badge/Instagram-@rakin_gn-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rakin_gn)
-[![Twitter](https://img.shields.io/badge/Twitter-@rakinghiyat-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Rakin_GN)
+[![Twitter](https://img.shields.io/badge/Twitter-@Raking_GN-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Rakin_GN)
 
 <!--Footer-->
 <div style="width:100%; height:50px; overflow:hidden;">
