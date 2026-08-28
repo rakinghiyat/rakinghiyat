@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a Data Processing System and Data Analyst
 - 🧩 I develop open-source solutions for real-time aircraft data enthusiasts
-- 🌱 I’m deepening my knowledge in sensor calibration, motion control systems, and telemetry UI/UX design
+- 🌱 I’m deepening my knowledge in sensor calibration, motion control systems, telemetry system and UI/UX design
 - 📡 I aim to build robust platforms that collect, process, and present flight data with minimal latency
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
@@ -28,7 +28,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
   <table style="border-collapse: collapse; border: none;">
@@ -49,7 +49,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakinghiyat&custom_title=rakinghiyat's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="rakinghiyat's Activity Graph" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>  -->
 
 <!--Connect-->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'><b> Let's Connect </b>
